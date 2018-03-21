@@ -15,7 +15,7 @@
         android:layout_marginLeft="18dp"
         android:layout_marginStart="18dp"
         android:text="Hello"
-        android:textSize="20sp" />
+        android:textSize="25sp" />
 
     <Button
         android:id="@+id/task_delete"
@@ -24,8 +24,8 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
-        android:layout_marginEnd="18dp"
-        android:layout_marginRight="18dp"
+        android:layout_marginEnd="43dp"
+        android:layout_marginRight="43dp"
         android:onClick="deleteTask"
         android:text="Done" />
 
